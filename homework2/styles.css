@@ -1,0 +1,36 @@
+* {
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th {
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	border-collapse: collapse;
+}
+
+td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.project-description {
+	vertical-align: top;
+}
+
+img {
+	max-width: 256px;
+}
+
+.project {
+	position: relative;
+}
+
+.date {
+	text-align: center;
+}
